@@ -2,7 +2,8 @@
 NLP Chatbot
 
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
-
+CODRUTA MERTICARU
+DATAPT AMSTERDAM 2020
 
 
 # Welcome to the Machine Learning Project!

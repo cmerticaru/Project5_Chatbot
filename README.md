@@ -35,6 +35,14 @@ https://data-flair.training/blogs/python-chatbot-project/
 https://dzone.com/articles/python-chatbot-project-build-your-first-python-pro
 https://www.datacamp.com/community/tutorials/building-a-chatbot-using-chatterbot
 
+### Folder Structure
+* train_chatbot.py — this contains the building and training of the deep learning model that can classify and identify what the user is asking to the bot.
+* chatgui.py — graphical user interface to chat with the chatbot
+* intents.json — The intents file has all the data that we will use to train the model. It contains a collection of tags with their corresponding patterns and responses.
+* chatbot_model.h5 — hierarchical data format file in which the weights and the architecture of the trained model are stored
+* classes.pkl — The pickle file used to store all the tag names to classify when message is predicted
+* words.pkl — file contains all the unique words that are the vocabulary of the model
+
 # Necessary Deliverables
 
 * **Project repository** <br>
